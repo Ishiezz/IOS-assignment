@@ -39,7 +39,7 @@ A comprehensive overview of health data, featuring:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Ishiezz/IOS-assignment.git
    ```
 2. **Open in Xcode**:
    Open `ios_assignment.xcodeproj` in Xcode 15 or later.
